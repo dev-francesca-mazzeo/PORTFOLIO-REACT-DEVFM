@@ -50,7 +50,6 @@ Follow these instructions to get a local copy of the project up and running on y
    ```bash
    npm start dev 
    ```
-
 4.1 To build the production-ready optimized bundle:
 
    ```bash
