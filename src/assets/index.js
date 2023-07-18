@@ -26,8 +26,10 @@ import php from "./tech/php.png";
 import C from "./tech/c.png";
 import Cpp from "./tech/cpp.png";
 import BT from "./tech/bootstrap.png";
+import arduino from "./tech/arduino.png";
+import raspberry from "./tech/raspberry.png";
 
-import rampone from "./company/rampone.png"
+import rampone from "./company/rampone.png";
 
 import carrent from "./carrent.png";
 import springboot from "./springboot.png";
@@ -61,8 +63,10 @@ export {
   C,
   Cpp,
   BT,
+  reactsite,
+  arduino, 
+  raspberry,
   rampone,
   carrent,
-  springboot,
-  reactsite,
+  springboot
 };

@@ -25,6 +25,8 @@ import {
   BT,
   springboot,
   reactsite,
+  arduino,
+  raspberry,
 
 } from "../assets";
 
@@ -129,6 +131,14 @@ const technologies = [
   {
     name: "BootStrap",
     icon: BT,
+  },
+  {
+    name: "Arduino",
+    icon: arduino,
+  },
+  {
+    name: "Raspberry-Pi",
+    icon: raspberry,
   },
 ];
 
