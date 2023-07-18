@@ -45,11 +45,17 @@ const About = () => {
       >
         I fell in love with programming and at least learned something I think... 🤷‍♂
         <br/>
-        I am fluent in classics such as C, C++, Java, Javascript, TypeScript and Python.
+        I am fluent in classics such as C, C++, Java, PHP, Javascript, TypeScript and Python.
       <br/>
-        My field of interest is the creation of new technologies and web products and also in areas related to Deep Learning and Natural Language Processing.
+        My field of interest is the development of new technologies and web products and also in areas related to Deep Learning and Natural Language Processing.
       <br/>
-        When possible, I also apply my passion for developing products with SQL, Node.js and Modern Javascript Library and Frameworks like React.js and Next.js
+          I also cultivated a passion for robotic prototypes and IOT using Raspberry Pi and Arduini.      
+      <br/>
+        Whenever possible, I also apply my passion for developing products with SQL, Node.js and Modern Javascript Library and Frameworks like React.js and Next.js
+      <br/>
+        I have participated in development teams using the agile-scrum methodology, and I have had the opportunity to experience IT at a company level.
+      <br/>
+        I am always looking for new adventurers who can contribute to my personal and professional development.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
