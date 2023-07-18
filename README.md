@@ -34,21 +34,24 @@ Follow these instructions to get a local copy of the project up and running on y
    ```
 
 2. Navigate to the project directory:
+3. 
   ```bash
   cd PORTFOLIO-REACT-DEVFM
   ```
 
 3. Install the dependencies:
+4. 
   ```bash
   npm install
   ```
 
 4. Start the development server:
-    ```bash
-    npm start dev 
-    ```
+
+ ```bash
+ npm start dev 
+ ```
 
 To build the production-ready optimized bundle:
-    ```bash
-    npm start build 
-    ```
+ ```bash
+ npm start build 
+ ```
