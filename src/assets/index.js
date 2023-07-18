@@ -31,7 +31,7 @@ import rampone from "./company/rampone.png"
 
 import carrent from "./carrent.png";
 import springboot from "./springboot.png";
-import tripguide from "./tripguide.png";
+import reactsite from "./react.png";
 
 export {
   logo,
@@ -64,5 +64,5 @@ export {
   rampone,
   carrent,
   springboot,
-  tripguide,
+  reactsite,
 };
