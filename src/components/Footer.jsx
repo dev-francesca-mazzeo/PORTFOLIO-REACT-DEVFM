@@ -1,35 +1,5 @@
 import React from 'react';
-import { FaFacebookF, FaTwitter, FaInstagram, FaGithub, FaLinkedinIn } from 'react-icons/fa';
-
-import {
-  mobile,
-  backend,
-  creator,
-  web,
-  javascript,
-  typescript,
-  html,
-  css,
-  reactjs,
-  tailwind,
-  nodejs,
-  mongodb,
-  git,
-  figma,
-  docker,
-  python,
-  java,
-  threejs,
-  mysql,
-  rampone,
-  php,
-  C,
-  Cpp,
-  BT,
-  springboot,
-  reactsite,
-
-} from "../assets";
+import { FaFacebookF, FaTwitter, FaInstagram, FaGithub, FaLinkedinIn, FaTelegram} from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -52,6 +22,9 @@ const Footer = () => {
             </a>
             <a href="https://github.com/dev-francesca-mazzeo" className="mr-4 hover:text-gray-500">
               <FaGithub size={20} />
+            </a>
+            <a href="https://t.me/FrancescaMazzeo" className="mr-4 hover:text-blue-500">
+              <FaTelegram size={20} />
             </a>
           </ul>
         </div>
