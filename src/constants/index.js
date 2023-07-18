@@ -24,6 +24,7 @@ import {
   Cpp,
   BT,
   springboot,
+  reactsite,
 
 } from "../assets";
 
@@ -179,6 +180,30 @@ const projects = [
     ],
     image: springboot,
     source_code_link: "https://github.com/dev-francesca-mazzeo/JAVAWEBSITEBACKEND/",
+  },
+  {
+    name: "Portfolio DEVFM - React App",
+    description:"This is a minimalist and sleek personal portfolio website built with React. It showcases my projects, skills, and contact information. - Clean and modern design with a focus on simplicity. - Project showcase with brief descriptions and links.Interactive 3D graphics powered by Three.js. - Responsive layout for seamless viewing on all devices. - Contact form for easy communication.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "three-js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html-css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: reactsite,
+    source_code_link: "https://github.com/dev-francesca-mazzeo/PORTFOLIO-REACT-DEVFM.git",
   }
 ];
 
