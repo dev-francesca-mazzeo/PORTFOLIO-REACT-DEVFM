@@ -19,6 +19,8 @@ import {
   threejs,
   mysql,
   rampone,
+  siinfo,
+  trinaware,
   php,
   C,
   Cpp,
@@ -148,7 +150,7 @@ const experiences = [
     company_name: "I.T.C. Salvatore Rampone",
     icon: rampone,
     iconBg: "#383E56",
-    date: "September 2020 - June 2025",
+    date: "September 2023 - now",
     points: [
       "Development with programming languages and ICT infrastructures.",
       "ICT support and assistance.",
@@ -156,6 +158,32 @@ const experiences = [
       "Development of robotic prototypes of various types.",
       "Development of structures, applications and web pages.",
       "Use of the google suite, virtual classes and lessons in the cloud.",
+    ],
+  },
+  {
+    title: "Web Developer" ,
+    company_name: "SIINFO",
+    icon: siinfo,
+    iconBg: "#383E56",
+    date: "May 2022 - October 2022",
+    points: [
+      "Development with Java(Spring Boot), SQL, React-JS.",
+      "Use of cloud AWS.",
+      "Use of virtual machines.",
+      "Development of structures, applications and web pages.",    
+    ],
+  },
+  {
+    title: "Web Developer" ,
+    company_name: "Trinawrae",
+    icon: trinaware,
+    iconBg: "#383E56",
+    date: "May 2022 - October 2022",
+    points: [
+      "Development with Java(Spring Boot), SQL,.",
+      "Use of cloud AWS.",
+      "Use of virtual machines.",
+      "Development of structures, applications, microservices and web pages.",    
     ],
   }
 ];
@@ -214,6 +242,26 @@ const projects = [
     ],
     image: reactsite,
     source_code_link: "https://github.com/dev-francesca-mazzeo/PORTFOLIO-REACT-DEVFM.git",
+  },
+    {
+    name: "E-commerce - Java App",
+    description:"Spring Boot web application designed to manage users, shopping carts, products, and authentication using refresh tokens.",
+    tags: [
+      {
+        name: "java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "springboot",
+        color: "green-text-gradient",
+      },
+      {
+        name: "sql",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: reactsite,
+    source_code_link: "https://github.com/dev-francesca-mazzeo/E-commerceApp",
   }
 ];
 
