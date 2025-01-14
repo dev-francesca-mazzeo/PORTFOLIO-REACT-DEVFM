@@ -260,7 +260,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: reactsite,
+    image: springboot,
     source_code_link: "https://github.com/dev-francesca-mazzeo/E-commerceApp",
   }
 ];
