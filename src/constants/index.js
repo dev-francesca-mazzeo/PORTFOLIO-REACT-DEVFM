@@ -175,10 +175,10 @@ const experiences = [
   },
   {
     title: "Web Developer" ,
-    company_name: "Trinawrae",
+    company_name: "Trinaware",
     icon: trinaware,
     iconBg: "#383E56",
-    date: "May 2022 - October 2022",
+    date: "Sep 2023 - Dec 2023",
     points: [
       "Development with Java(Spring Boot), SQL,.",
       "Use of cloud AWS.",
