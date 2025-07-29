@@ -1,0 +1,148 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "Chi sono",
+    "contact": "Contatti",
+    "work": "Progetti"
+  },
+  "hero": {
+    "welcome": "Benvenuto nel mio portfolio"
+  },
+  "about": {
+    "subtitle": "Introduzione",
+    "title": "Panoramica",
+    "description": "Mi sono innamorata della programmazione e penso di aver imparato qualcosa... 🤷‍♀️\nParlo fluentemente linguaggi come C, C++, Java, PHP, Javascript, TypeScript e Python.\nIl mio campo di interesse è lo sviluppo di nuove tecnologie e prodotti web, e anche aree legate al Deep Learning e al Natural Language Processing.\nHo anche coltivato una passione per i prototipi robotici e l'IOT utilizzando Raspberry Pi e Arduino.\nQuando possibile, applico la mia passione nello sviluppo di prodotti con SQL, Node.js e librerie/framework moderni come React.js e Next.js.\nHo partecipato a team di sviluppo utilizzando la metodologia agile-scrum e ho avuto l’opportunità di vivere l’informatica in contesto aziendale.\nSono sempre alla ricerca di nuove avventure che possano contribuire alla mia crescita personale e professionale.",
+    "services": {
+      "service-web": "Sviluppo Web",
+      "service-mobile": "Sviluppo Mobile",
+      "service-backend": "Sviluppo Backend",
+      "service-frontend": "Sviluppo Frontend"
+    }
+  },
+  "experience": {
+  "subtitle": "Cosa ho fatto finora",
+  "title": "Esperienze lavorative e formative"
+  },
+  "experiences": [
+    {
+      "title": "Studentessa di Informatica",
+      "company_name": "I.T.C. Salvatore Rampone",
+      "date": "Settembre 2023 - oggi",
+      "points": [
+        "Sviluppo con linguaggi di programmazione e infrastrutture ICT.",
+        "Supporto e assistenza informatica.",
+        "Formazione nel campo della sicurezza e della privacy.",
+        "Sviluppo di prototipi robotici di vario tipo.",
+        "Sviluppo di strutture, applicazioni e pagine web.",
+        "Utilizzo della suite Google, classi virtuali e lezioni nel cloud."
+      ]
+    },
+    {
+      "title": "Sviluppatrice Web",
+      "company_name": "SIINFO",
+      "date": "Maggio 2022 - Ottobre 2022",
+      "points": [
+        "Sviluppo con Java(Spring Boot), SQL, React-JS.",
+        "Utilizzo del cloud AWS.",
+        "Utilizzo di macchine virtuali.",
+        "Sviluppo di strutture, applicazioni e pagine web."
+      ]
+    },
+    {
+      "title": "Sviluppatrice Web",
+      "company_name": "Trinaware",
+      "date": "Set 2023 - Dic 2023",
+      "points": [
+        "Sviluppo con Java(Spring Boot), SQL.",
+        "Utilizzo del cloud AWS.",
+        "Utilizzo di macchine virtuali.",
+        "Sviluppo di strutture, applicazioni, microservizi e pagine web."
+      ]
+    }
+  ],
+  "projects": {
+    "sectionSubText": "Il mio lavoro",
+    "sectionHeadText": "Progetti.",
+    "description": "Alcuni progetti che evidenziano le mie competenze e la mia esperienza. Ogni progetto è documentato e descritto con link ai repository di codice e demo live.",
+    "cards": [
+      {
+        "id": "proj-java-backend",
+        "name": "Java Back-End WebSite",
+        "description": "Sistema backend per un'applicazione di e-commerce. Dalla struttura del progetto e dalle funzionalità descritte, il sistema supporta le tipiche funzionalità di un'app di e-commerce, come gestione del carrello, categorie, prodotti, autenticazione utenti, gestione degli ordini e altro.",
+        "tags": [
+          { "name": "java", "color": "blue-text-gradient" },
+          { "name": "springboot", "color": "green-text-gradient" },
+          { "name": "sql", "color": "pink-text-gradient" }
+        ]
+      },
+      {
+        "id": "proj-portfolio-react",
+        "name": "Portfolio DEVFM - React App",
+        "description": "Questo è un sito portfolio personale minimalista e moderno costruito con React. Mostra i miei progetti, competenze e informazioni di contatto. - Design pulito e moderno con attenzione alla semplicità. - Galleria di progetti con descrizioni e link. - Grafica 3D interattiva grazie a Three.js. - Layout responsivo per una visualizzazione ottimale su tutti i dispositivi. - Modulo di contatto per comunicazioni rapide.",
+        "tags": [
+          { "name": "react", "color": "blue-text-gradient" },
+          { "name": "javascript", "color": "green-text-gradient" },
+          { "name": "three-js", "color": "blue-text-gradient" },
+          { "name": "html-css", "color": "pink-text-gradient" }
+        ]
+      },
+      {
+        "id": "proj-ecommerce-java",
+        "name": "E-commerce - Java App",
+        "description": "Applicazione web Spring Boot progettata per gestire utenti, carrelli, prodotti e autenticazione con token di aggiornamento.",
+        "tags": [
+          { "name": "java", "color": "blue-text-gradient" },
+          { "name": "springboot", "color": "green-text-gradient" },
+          { "name": "sql", "color": "blue-text-gradient" }
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonianze.",
+    "subtitle": "Cosa dicono gli altri"
+  },
+  "feedbackForm": {
+    "triggerText": "lascia una testimonianza",
+    "triggerButton": "CLICCA QUI",
+    "formTitle": "Testimonianza.",
+    "formSubtitle": "Scrivine una",
+    "fields": {
+      "company": "La tua Azienda",
+      "companyPlaceholder": "Come si chiama l'azienda?",
+      "email": "La tua Email",
+      "emailPlaceholder": "Qual è il tuo indirizzo web?",
+      "name": "Il tuo Nome",
+      "namePlaceholder": "Come ti chiami?",
+      "designation": "La tua Qualifica",
+      "designationPlaceholder": "Qual è la tua qualifica?",
+      "testimonial": "La tua testimonianza",
+      "testimonialPlaceholder": "Cosa vuoi dire?"
+    },
+    "sendButton": "Invia",
+    "sendingButton": "Invio in corso..."
+  },
+  "contact": {
+  "subtitle": "Contattami",
+  "title": "Contatto.",
+  "nameLabel": "Il tuo nome",
+  "namePlaceholder": "Come ti chiami?",
+  "emailLabel": "La tua email",
+  "emailPlaceholder": "Qual è il tuo indirizzo email?",
+  "messageLabel": "Il tuo messaggio",
+  "messagePlaceholder": "Cosa vuoi dire?",
+  "send": "Invia",
+  "sending": "Invio in corso..."
+  },
+  "hero": {
+    "greeting": "Ciao, sono",
+    "typewriter1": "Amo imparare nuove tecnologie.",
+    "typewriter2": "Amo conoscere nuove persone.",
+    "typewriter3": "Amo creare nuovi software."
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati.",
+    "privacy": "Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae ai sensi del D. Lgs. 196 del 30 giugno 2003 e dell’art. 13 del GDPR."
+  }
+}
+

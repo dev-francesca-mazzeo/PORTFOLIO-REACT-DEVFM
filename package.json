@@ -1,13 +1,15 @@
 {
     "name": "demodevfm-app",
     "private": true,
-    "homepage": "https://devfrancescamazzeo.com/public_html/dist/",
+    "homepage": "https://dev-francesca-mazzeo.github.io/PORTFOLIO-REACT-DEVFM",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
-        "preview": "vite preview"
+        "preview": "vite preview",
+        "predeploy": "npm run dist",
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "@react-three/drei": "^9.56.24",
@@ -18,6 +20,7 @@
         "framer-motion": "^9.0.7",
         "i18n": "^0.15.1",
         "i18next": "^22.5.1",
+        "i18next-browser-languagedetector": "^8.0.0",
         "maath": "^0.5.2",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
@@ -43,6 +46,7 @@
         "@types/react-dom": "^18.0.10",
         "@vitejs/plugin-react": "^3.1.0",
         "autoprefixer": "^10.4.14",
+        "gh-pages": "^6.2.0",
         "postcss": "^8.4.23",
         "react-tilt": "^1.0.2",
         "tailwindcss": "^3.3.2",

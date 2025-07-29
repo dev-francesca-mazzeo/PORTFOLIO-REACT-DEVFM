@@ -30,8 +30,9 @@ import arduino from "./tech/arduino.png";
 import raspberry from "./tech/raspberry.png";
 
 import rampone from "./company/rampone.png";
+import siinfo from "./company/siinfo.png";
+import trinaware from "./company/trinaware.png"
 
-import carrent from "./carrent.png";
 import springboot from "./springboot.png";
 import reactsite from "./react.png";
 
@@ -67,6 +68,7 @@ export {
   arduino, 
   raspberry,
   rampone,
-  carrent,
+  siinfo,
+  trinaware,
   springboot
 };
