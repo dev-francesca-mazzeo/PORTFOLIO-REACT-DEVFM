@@ -1,0 +1,148 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "work": "Projects"
+  },
+  "hero": {
+    "welcome": "Welcome to My Portfolio"
+  },
+  "about": {
+    "subtitle": "Introduction",
+    "title": "Overview",
+    "description": "I fell in love with programming and at least learned something I think... 🤷‍♂️\nI am fluent in classics such as C, C++, Java, PHP, Javascript, TypeScript and Python.\nMy field of interest is the development of new technologies and web products and also in areas related to Deep Learning and Natural Language Processing.\nI also cultivated a passion for robotic prototypes and IOT using Raspberry Pi and Arduini.\nWhenever possible, I also apply my passion for developing products with SQL, Node.js and Modern Javascript Libraries and Frameworks like React.js and Next.js\nI have participated in development teams using the agile-scrum methodology, and I have had the opportunity to experience IT at a company level.\nI am always looking for new adventurers who can contribute to my personal and professional development.",
+    "services": {
+      "service-web": "Web Development",
+      "service-mobile": "Mobile Development",
+      "service-backend": "Backend Development",
+      "service-frontend": "Frontend Development"
+    }
+  },
+  "experience": {
+  "subtitle": "What I've done so far",
+  "title": "Work and Formation Experiences"
+  },
+    "experiences": [
+      {
+        "title": "ICT Student",
+        "company_name": "I.T.C. Salvatore Rampone",
+        "date": "September 2023 - now",
+        "points": [
+          "Development with programming languages and ICT infrastructures.",
+          "ICT support and assistance.",
+          "Training in the field of Security and privacy.",
+          "Development of robotic prototypes of various types.",
+          "Development of structures, applications and web pages.",
+          "Use of the google suite, virtual classes and lessons in the cloud."
+        ]
+      },
+      {
+        "title": "Web Developer",
+        "company_name": "SIINFO",
+        "date": "May 2022 - October 2022",
+        "points": [
+          "Development with Java(Spring Boot), SQL, React-JS.",
+          "Use of cloud AWS.",
+          "Use of virtual machines.",
+          "Development of structures, applications and web pages."
+        ]
+      },
+      {
+        "title": "Web Developer",
+        "company_name": "Trinaware",
+        "date": "Sep 2023 - Dec 2023",
+        "points": [
+          "Development with Java(Spring Boot), SQL.",
+          "Use of cloud AWS.",
+          "Use of virtual machines.",
+          "Development of structures, applications, microservices and web pages."
+        ]
+      }
+    ],
+  "projects": {
+    "sectionSubText": "My work",
+    "sectionHeadText": "Projects.",
+    "description": "Some projects that highlight my skills and my experience. Each project is documented and described with links to code repositories and live demos within it.",
+    "cards": [
+      {
+        "id": "proj-java-backend",
+        "name": "Java Back-End WebSite",
+        "description": "Backend system for an e-commerce application. From the project structure and the features described, the system supports the typical features of an e-commerce application, such as shopping cart management, category management, product management, user authentication, order management and so on.",
+        "image": "springboot.png",
+        "tags": [
+          { "name": "java", "color": "blue-text-gradient" },
+          { "name": "springboot", "color": "green-text-gradient" },
+          { "name": "sql", "color": "pink-text-gradient" }
+        ]
+      },
+      {
+        "id": "proj-portfolio-react",
+        "name": "Portfolio DEVFM - React App",
+        "description": "This is a minimalist and sleek personal portfolio website built with React. It showcases my projects, skills, and contact information. - Clean and modern design with a focus on simplicity. - Project showcase with brief descriptions and links.Interactive 3D graphics powered by Three.js. - Responsive layout for seamless viewing on all devices. - Contact form for easy communication.",
+        "tags": [
+          { "name": "react", "color": "blue-text-gradient" },
+          { "name": "javascript", "color": "green-text-gradient" },
+          { "name": "three-js", "color": "blue-text-gradient" },
+          { "name": "html-css", "color": "pink-text-gradient" }
+        ]
+      },
+      {
+        "id": "proj-ecommerce-java",
+        "name": "E-commerce - Java App",
+        "description": "Spring Boot web application designed to manage users, shopping carts, products, and authentication using refresh tokens.",
+        "tags": [
+          { "name": "java", "color": "blue-text-gradient" },
+          { "name": "springboot", "color": "green-text-gradient" },
+          { "name": "sql", "color": "blue-text-gradient" }
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonials.",
+    "subtitle": "What others say"
+  },
+  "feedbackForm": {
+    "triggerText": "leave a testimony",
+    "triggerButton": "CLICK HERE",
+    "formTitle": "Testimony.",
+    "formSubtitle": "Write one",
+    "fields": {
+      "company": "Your Company",
+      "companyPlaceholder": "What's Company's name?",
+      "email": "Your Email",
+      "emailPlaceholder": "What's your web address?",
+      "name": "Your Name",
+      "namePlaceholder": "What's your name?",
+      "designation": "Your Designation",
+      "designationPlaceholder": "What is your designation?",
+      "testimonial": "Your testimonial",
+      "testimonialPlaceholder": "What you want to say?"
+    },
+    "sendButton": "Send",
+    "sendingButton": "Sending..."
+  },
+  "contact": {
+  "subtitle": "Get in touch",
+  "title": "Contact.",
+  "nameLabel": "Your Name",
+  "namePlaceholder": "What's your good name?",
+  "emailLabel": "Your Email",
+  "emailPlaceholder": "What's your web address?",
+  "messageLabel": "Your Message",
+  "messagePlaceholder": "What do you want to say?",
+  "send": "Send",
+  "sending": "Sending..."
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "typewriter1": "I love learning new tech.",
+    "typewriter2": "I love meeting new people.",
+    "typewriter3": "I love creating new software."
+  },
+  "footer": {
+    "rights": "All Rights Reserved.",
+    "privacy": "I authorize the processing of personal data contained in my curriculum vitae on the basis of Legislative Decree 196 of 30 June 2003 and art. 13 of the GDPR."
+  }
+}

@@ -10,7 +10,6 @@
         "preview": "vite preview",
         "predeploy": "npm run dist",
         "deploy": "gh-pages -d dist"
-
     },
     "dependencies": {
         "@react-three/drei": "^9.56.24",
